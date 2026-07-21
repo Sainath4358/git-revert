@@ -3,7 +3,6 @@ public class App {
 		system.out.println("Good Morning:")
                 system.out.println("Git Revere command")
 		system.out.println("New feature added-1")
-		system.out.println("New feauture added-2}
 
 	}
 }
